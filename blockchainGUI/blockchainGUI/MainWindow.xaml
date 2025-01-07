@@ -21,7 +21,6 @@
         <!-- Blockchain Ledger Status -->
         <Label Content="Blockchain Ledger Status:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,100,0,0"/>
         <ListBox x:Name="BlockchainLedger" HorizontalAlignment="Left" VerticalAlignment="Top" Height="200" Width="339" Margin="10,130,0,0">
-            <!-- Blockchain details will populate here dynamically -->
         </ListBox>
 
         <!-- Mining Section -->
