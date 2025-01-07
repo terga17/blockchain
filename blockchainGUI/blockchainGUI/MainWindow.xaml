@@ -1,0 +1,36 @@
+﻿<Window x:Class="blockchainGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:blockchainGUI"
+        mc:Ignorable="d"
+        Title="Blockchain" Height="450" Width="800">
+    <Grid>
+        <!-- Node Name Input -->
+        <Label Content="Node Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox x:Name="NodeNameInput" HorizontalAlignment="Left" VerticalAlignment="Top" Width="151" Margin="92,18,0,0"/>
+
+        <!-- Connect Button -->
+        <Button x:Name="ConnectButton" Content="Connect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Margin="259,16,0,0" Click="ConnectButton_Click"/>
+
+        <!-- Connect Port -->
+        <TextBox x:Name="ConnectPortInput" HorizontalAlignment="Left" VerticalAlignment="Top" Width="142" Margin="532,19,0,0"/>
+        <Button x:Name="ConnectPortButton" Content="Set Port" HorizontalAlignment="Left" VerticalAlignment="Top" Width="91" Margin="679,18,0,0" Click="ConnectPortButton_Click"/>
+
+        <!-- Blockchain Ledger Status -->
+        <Label Content="Blockchain Ledger Status:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,100,0,0"/>
+        <ListBox x:Name="BlockchainLedger" HorizontalAlignment="Left" VerticalAlignment="Top" Height="200" Width="339" Margin="10,130,0,0">
+            <!-- Blockchain details will populate here dynamically -->
+        </ListBox>
+
+        <!-- Mining Section -->
+        <Label Content="Mining:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,350,0,0"/>
+        <TextBox x:Name="MiningInput" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="70,350,0,0"/>
+        <Button x:Name="MineButton" Content="Mine" HorizontalAlignment="Left" VerticalAlignment="Top" Width="89" Margin="360,16,0,0" Click="MineButton_Click" RenderTransformOrigin="-0.214,0.52"/>
+
+        <!-- Mining Output -->
+        <Label Content="Mining Output:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="446,100,0,0"/>
+        <TextBox x:Name="MiningOutput" HorizontalAlignment="Left" VerticalAlignment="Top" Height="200" Width="324" Margin="446,130,0,0" IsReadOnly="True" TextWrapping="Wrap"/>
+    </Grid>
+</Window>
