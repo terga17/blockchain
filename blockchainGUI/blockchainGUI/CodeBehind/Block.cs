@@ -44,7 +44,6 @@ namespace blockchainGUI.CodeBehind
                 Nonce++;
             }
         }
-
         public string ToJson()
         {
             return JsonConvert.SerializeObject(this);

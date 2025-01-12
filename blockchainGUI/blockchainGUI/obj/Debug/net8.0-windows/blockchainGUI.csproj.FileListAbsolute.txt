@@ -19,3 +19,6 @@ C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\bl
 C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.pdb
 C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.genruntimeconfig.cache
 C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\ref\blockchainGUI.dll
+C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.csproj.AssemblyReference.cache
+C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockcha.78DFC885.Up2Date

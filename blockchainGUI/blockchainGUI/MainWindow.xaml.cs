@@ -18,9 +18,6 @@ namespace blockchainGUI
         public MainWindow()
         {
             InitializeComponent();
-            UpdateBlockchainStatus();
-            blockchain = new Blockchain();
-
         }
 
         private void ConnectButton_Click(object sender, RoutedEventArgs e)
@@ -31,6 +28,17 @@ namespace blockchainGUI
                 MessageBox.Show("Vnesite ime!");
                 return;
             }
+            Random random = new Random();
+            port = random.Next(1024, 65535);
+            ConnectPortInput.Text = port.ToString();
+
+            blockchain = new Blockchain();
+            UpdateBlockchainStatus();
+            MessageBox.Show($"This node is listening on port: {port}");
+
+            tcpListener = new TcpListener(IPAddress.Parse(localhost), port);
+            tcpListener.Start();
+            Task.Run(() => RecieveData());
         }
 
         private async void ConnectPortButton_Click(object sender, RoutedEventArgs e)
@@ -43,12 +51,17 @@ namespace blockchainGUI
 
             try
             {
-                tcpListener = new TcpListener(IPAddress.Parse(localhost), port);
-                tcpListener.Start();
-                MessageBox.Show($"Poslušam za povezave na vratah: {port}");
-                await Task.Run(() => RecieveData());
+                using (var client = new TcpClient(localhost, port))
+                using (var stream = client.GetStream())
+                {
+                    string json = blockchain.ToJson();
+                    byte[] data = Encoding.UTF8.GetBytes(json);
+                    await stream.WriteAsync(data, 0, data.Length);
+
+                    MessageBox.Show($"Povezano na {port}");
+                }
             }
-            catch (Exception ex) 
+            catch (Exception ex)
             {
                 MessageBox.Show("Napaka pri vzpostavitvi povezave.");
             }
@@ -68,7 +81,6 @@ namespace blockchainGUI
 
                     Dispatcher.Invoke(() =>
                     {
-                        MessageBox.Show($"Received: {receivedData}");
                         HandleData(receivedData);
                     });
 
@@ -146,7 +158,7 @@ namespace blockchainGUI
             if (blockchain.Chain.Any())
             {
                 var latestBlock = blockchain.Chain.Last();
-                MiningOutput.Text = $"Latest Block:\nIndex: {latestBlock.Index}\nHash: {latestBlock.Hash}\nNonce: {latestBlock.Nonce}\nDifficulty: {latestBlock.Difficulty}\nTimestamp: {latestBlock.Timestamp}";
+                MiningOutput.Text = $"Latest Block:\nIndex: {latestBlock.Index}\nData: {latestBlock.Data}\nHash: {latestBlock.Hash}\nNonce: {latestBlock.Nonce}\nDifficulty: {latestBlock.Difficulty}\nTimestamp: {latestBlock.Timestamp}";
             }
             else
             {

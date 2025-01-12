@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -112,6 +113,15 @@ namespace blockchainGUI.CodeBehind
                 return previousAdjustmentBlock.Difficulty - 1;
             else
                 return previousAdjustmentBlock.Difficulty;
+        }
+        public string ToJson()
+        {
+            return JsonConvert.SerializeObject(this);
+        }
+
+        public static Block FromJson(string json)
+        {
+            return JsonConvert.DeserializeObject<Block>(json);
         }
     }
 }
