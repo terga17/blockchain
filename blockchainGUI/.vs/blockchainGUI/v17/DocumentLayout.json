@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\",
+  "WorkspaceRootPath": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|c:\\users\\tergl\\desktop\\feri\\2. letnik\\mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchaingui\\blockchaingui\\codebehind\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|c:\\users\\tergl\\desktop\\git repos\\blockchain\\blockchaingui\\blockchaingui\\codebehind\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|solutionrelative:blockchaingui\\codebehind\\blockchain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|c:\\users\\tergl\\desktop\\feri\\2. letnik\\mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchaingui\\blockchaingui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|c:\\users\\tergl\\desktop\\git repos\\blockchain\\blockchaingui\\blockchaingui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|solutionrelative:blockchaingui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|c:\\users\\tergl\\desktop\\feri\\2. letnik\\mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchaingui\\blockchaingui\\codebehind\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|c:\\users\\tergl\\desktop\\git repos\\blockchain\\blockchaingui\\blockchaingui\\codebehind\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|solutionrelative:blockchaingui\\codebehind\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|c:\\users\\tergl\\desktop\\feri\\2. letnik\\mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchaingui\\blockchaingui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|c:\\users\\tergl\\desktop\\git repos\\blockchain\\blockchaingui\\blockchaingui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{463F3AEA-3B3C-4E04-BCFB-D02BCA492ABC}|blockchainGUI\\blockchainGUI.csproj|solutionrelative:blockchaingui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Blockchain.cs",
-              "DocumentMoniker": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\CodeBehind\\Blockchain.cs",
+              "DocumentMoniker": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\CodeBehind\\Blockchain.cs",
               "RelativeDocumentMoniker": "blockchainGUI\\CodeBehind\\Blockchain.cs",
-              "ToolTip": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\CodeBehind\\Blockchain.cs",
+              "ToolTip": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\CodeBehind\\Blockchain.cs",
               "RelativeToolTip": "blockchainGUI\\CodeBehind\\Blockchain.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAewD0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAIAwwDMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T18:12:37.501Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Block.cs",
-              "DocumentMoniker": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\CodeBehind\\Block.cs",
+              "DocumentMoniker": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\CodeBehind\\Block.cs",
               "RelativeDocumentMoniker": "blockchainGUI\\CodeBehind\\Block.cs",
-              "ToolTip": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\CodeBehind\\Block.cs",
+              "ToolTip": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\CodeBehind\\Block.cs",
               "RelativeToolTip": "blockchainGUI\\CodeBehind\\Block.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwCQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:56:58.736Z",
               "EditorCaption": ""
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "blockchainGUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\MainWindow.xaml",
               "RelativeToolTip": "blockchainGUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-07T16:36:25.429Z",
@@ -70,11 +70,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "blockchainGUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mre\u017Eno usmerjeno ra\u010Dunanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\MainWindow.xaml.cs",
               "RelativeToolTip": "blockchainGUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAnwGUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAewHsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:36:23.974Z",
               "EditorCaption": ""

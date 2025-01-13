@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mrežno usmerjeno računanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\blockchainGUI.csproj": {}
+    "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\blockchainGUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mrežno usmerjeno računanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\blockchainGUI.csproj": {
+    "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\blockchainGUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mrežno usmerjeno računanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\blockchainGUI.csproj",
+        "projectUniqueName": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\blockchainGUI.csproj",
         "projectName": "blockchainGUI",
-        "projectPath": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mrežno usmerjeno računanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\blockchainGUI.csproj",
+        "projectPath": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\blockchainGUI.csproj",
         "packagesPath": "C:\\Users\\tergl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tergl\\Desktop\\FERI\\2. LETNIK\\Mrežno usmerjeno računanje\\blockchain\\blockchain\\blockchainGUI\\blockchainGUI\\obj\\",
+        "outputPath": "C:\\Users\\tergl\\Desktop\\Git repos\\blockchain\\blockchainGUI\\blockchainGUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tergl\\AppData\\Roaming\\NuGet\\NuGet.Config",

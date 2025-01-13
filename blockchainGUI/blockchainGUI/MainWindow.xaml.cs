@@ -34,7 +34,6 @@ namespace blockchainGUI
 
             blockchain = new Blockchain();
             UpdateBlockchainStatus();
-            MessageBox.Show($"This node is listening on port: {port}");
 
             tcpListener = new TcpListener(IPAddress.Parse(localhost), port);
             tcpListener.Start();
@@ -103,15 +102,15 @@ namespace blockchainGUI
                     blockchain.Chain.Add(newBlock);
                     MessageBox.Show("Dodan blok druge instance");
                 }
-                else
-                {
-                    MessageBox.Show("Prejeta nepravilna struktura bloka.");
-                }
+                //else
+                //{
+                //    MessageBox.Show("Prejeta nepravilna struktura bloka.");
+                //}
                 UpdateBlockchainStatus();
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Napak pri obravnavi podatkov: {ex.Message}");
+                MessageBox.Show($"Napaka pri obravnavi podatkov: {ex.Message}");
             }
         }
 

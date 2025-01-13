@@ -22,3 +22,27 @@ C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\bl
 C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.csproj.AssemblyReference.cache
 C:\Users\tergl\Desktop\FERI\2. LETNIK\Mrežno usmerjeno računanje\blockchain\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockcha.78DFC885.Up2Date
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\bin\Debug\net8.0-windows\blockchainGUI.exe
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\bin\Debug\net8.0-windows\blockchainGUI.deps.json
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\bin\Debug\net8.0-windows\blockchainGUI.runtimeconfig.json
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\bin\Debug\net8.0-windows\blockchainGUI.dll
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\bin\Debug\net8.0-windows\blockchainGUI.pdb
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.csproj.AssemblyReference.cache
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI_MarkupCompile.cache
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI_MarkupCompile.lref
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.g.resources
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.AssemblyInfoInputs.cache
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.AssemblyInfo.cs
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.csproj.CoreCompileInputs.cache
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.sourcelink.json
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockcha.78DFC885.Up2Date
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.dll
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\refint\blockchainGUI.dll
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.pdb
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\blockchainGUI.genruntimeconfig.cache
+C:\Users\tergl\Desktop\Git repos\blockchain\blockchainGUI\blockchainGUI\obj\Debug\net8.0-windows\ref\blockchainGUI.dll

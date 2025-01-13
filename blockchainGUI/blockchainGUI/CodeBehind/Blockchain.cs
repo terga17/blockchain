@@ -12,7 +12,7 @@ namespace blockchainGUI.CodeBehind
         public List<Block> Chain {  get; set; } = new List<Block>();
         public int Diff { get; set; } = 4;
         public const int GenerateInterval = 10;     //vsakih 10s lahko vstavimo nov blok
-        public const int AdjustDiffInterval = 10;   //vsakih 10 blokov, se težavnost spremeni
+        public const int AdjustDiffInterval = 3;   //vsakih 10 blokov, se težavnost spremeni
 
         public Blockchain() 
         {
@@ -39,7 +39,7 @@ namespace blockchainGUI.CodeBehind
             var newBlock = new Block
             {
                 Index = prevBlock.Index + 1,
-                Data = data,
+                Data = $"Lastnik bloka: {data}",
                 Timestamp = DateTime.Now,
                 PreviousHash = prevBlock.Hash,
                 Difficulty = Diff,
@@ -50,7 +50,7 @@ namespace blockchainGUI.CodeBehind
             {
                 Chain.Add(newBlock);
                 if (Chain.Count % AdjustDiffInterval == 0)
-                    AdjustDifficulty();
+                    newBlock.Difficulty = AdjustDifficulty();
             }
             else
                 throw new InvalidOperationException("Adding block failed.");
